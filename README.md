@@ -1,3 +1,12 @@
+Добавить новый элемент с помощью создания нового компонента
+
+Татьяна -  картинку
+Анастасия - заголовок 
+Алена - кнопку
+Оля - картинку
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
